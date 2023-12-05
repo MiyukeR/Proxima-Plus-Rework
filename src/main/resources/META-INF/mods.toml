@@ -1,0 +1,49 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="proxima_plus"
+version="1.0"
+displayName="Ad Astra  - Proxima Plus"
+credits="Terrarium Team, Mimiccube, TathanDev"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus"
+logoFile="icon.png"
+authors="Miyuke_R, it_s"
+description="Proxima Plus!"
+
+[[dependencies.proxima_plus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.proxima_plus]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.proxima_plus]]
+    modId="resourcefulconfig"
+    mandatory=true
+    versionRange="[2.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.proxima_plus]]
+    modId="ad_astra"
+    mandatory=true
+    versionRange="[1.15.1,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.proxima_plus]]
+    modId="botarium"
+    mandatory=true
+    versionRange="[2.1.0,)"
+    ordering="AFTER"
+    side="BOTH"
+

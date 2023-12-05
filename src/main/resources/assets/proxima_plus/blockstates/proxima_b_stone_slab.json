@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "proxima_plus:block/proxima_b_stone_slab"
+    },
+    "type=double": {
+      "model": "proxima_plus:block/proxima_b_stone_block"
+    },
+    "type=top": {
+      "model": "proxima_plus:block/proxima_b_stone_slab_top"
+    }
+  }
+}

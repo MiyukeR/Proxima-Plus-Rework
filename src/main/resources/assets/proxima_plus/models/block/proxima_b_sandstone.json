@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "proxima_plus:block/proxima_b_sandstone",
+    "particle": "proxima_plus:block/proxima_b_sandstone"
+  }
+}

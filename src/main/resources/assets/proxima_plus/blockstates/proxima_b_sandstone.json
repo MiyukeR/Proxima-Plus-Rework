@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "proxima_plus:block/proxima_b_sandstone"
+    }
+  }
+}

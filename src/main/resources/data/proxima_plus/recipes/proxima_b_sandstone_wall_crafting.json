@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    },
+    "1": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    },
+    "2": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    },
+    "3": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    },
+    "4": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    },
+    "5": {
+      "item": "proxima_plus:proxima_b_sandstone"
+    }
+  },
+  "result": {
+    "item": "proxima_plus:proxima_b_sandstone_wall",
+    "count": 6
+  }
+}

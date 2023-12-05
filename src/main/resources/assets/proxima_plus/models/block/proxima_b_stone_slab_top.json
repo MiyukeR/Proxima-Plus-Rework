@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "proxima_plus:block/proxima_b_stone",
+    "top": "proxima_plus:block/proxima_b_stone",
+    "side": "proxima_plus:block/proxima_b_stone"
+  },
+  "render_type": "solid"
+}

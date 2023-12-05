@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "proxima_plus:block/proxiam_b_stone"
+  }
+}

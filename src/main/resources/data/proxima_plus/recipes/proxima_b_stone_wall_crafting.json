@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "proxima_plus:proxima_b_stone"
+    },
+    "1": {
+      "item": "proxima_plus:proxima_b_stone"
+    },
+    "2": {
+      "item": "proxima_plus:proxima_b_stone"
+    },
+    "3": {
+      "item": "proxima_plus:proxima_b_stone"
+    },
+    "4": {
+      "item": "proxima_plus:proxima_b_stone"
+    },
+    "5": {
+      "item": "proxima_plus:proxima_b_stone"
+    }
+  },
+  "result": {
+    "item": "proxima_plus:proxima_b_stone_wall",
+    "count": 6
+  }
+}

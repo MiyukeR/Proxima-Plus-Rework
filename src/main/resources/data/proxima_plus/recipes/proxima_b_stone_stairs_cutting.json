@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "proxima_plus:proxima_b_stone"
+  },
+  "result": "proxima_plus:proxima_b_stone_stairs"
+}
